@@ -1,0 +1,28 @@
+{
+  "name": "practical_5",
+  "version": "1.0.0",
+  "description": "Practical 5",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/west557/SIT780_Prac5.git"
+  },
+  "keywords": [
+    "Prac5"
+  ],
+  "author": "Scott West",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/west557/SIT780_Prac5/issues"
+  },
+  "homepage": "https://github.com/west557/SIT780_Prac5#readme",
+  "dependencies": {
+    "mongoose": "^6.0.10",
+    "mysql2": "^2.3.0",
+    "sequelize": "^6.6.5",
+    "touch": "^3.1.0"
+  }
+}
